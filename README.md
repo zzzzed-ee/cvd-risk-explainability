@@ -47,7 +47,7 @@ Ensure you have Python 3.8+ installed. The primary libraries used in this projec
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-project.git
+   git clone https://github.com/zzzzed-ee/cvd-risk-explainability.git
    cd data-project
    ```
 2. Install the required dependencies:
