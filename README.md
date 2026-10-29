@@ -13,7 +13,6 @@ This repository follows a standard data science project structure:
 │   ├── raw/                 # Original dataset (cardio_train.csv)
 │   └── processed/           # Cleaned data with engineered features
 ├── notebooks/               # Jupyter notebooks (e.g., Final_Code_updated.ipynb)
-├── scripts/                 # Python scripts for data processing and modeling
 ├── outputs/                 # Exported SHAP plots, ROC curves, and ablation tables
 ├── .gitignore               # Ignored files and directories
 ├── README.md                # Project documentation
@@ -62,4 +61,4 @@ Ensure you have Python 3.8+ installed. The primary libraries used in this projec
    ```bash
    jupyter notebook
    ```
-3. Open `notebooks/Final_Code_updated.ipynb` and run the cells sequentially to execute the data cleaning, model training, and SHAP visualizations.
+3. Open `notebooks/Final Code.ipynb` and run the cells sequentially to execute the data cleaning, model training, and SHAP visualizations.
