@@ -1,11 +1,3 @@
-# Ignore everything in data and outputs directories
-data/*
-outputs/*
-
-# Except the .gitkeep files to maintain folder structure
-!data/**/.gitkeep
-!outputs/**/.gitkeep
-
 # Ignore virtual environments and credentials
 venv/
 .env
