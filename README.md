@@ -34,8 +34,6 @@ This repository follows a standard data science project structure:
 
 ## Key Findings
 
-*(Note: Drop your exported SHAP Summary Plot and Grouped SHAP Importance Barplot from the `outputs/` folder here to provide an immediate visual summary.)*
-
 * **Physiological Vitals Dominate:** The ablation study and grouped SHAP analysis reveal that physiological measurements (specifically systolic blood pressure and cholesterol) heavily outweigh lifestyle choices in driving the model's immediate predictions.
 * **Model Performance:** The Random Forest pipeline successfully handles the coarse, heavily-rounded nature of the raw clinical measurements to deliver robust ROC-AUC scores.
 
